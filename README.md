@@ -37,3 +37,7 @@ This project demonstrates the integration of deep learning with computer vision 
 ```bash
 git clone https://github.com/sathirapramudith123/object-detect-system.git
 cd object-detect-system
+
+##install Required Libraries
+pip install ultralytics opencv-python deep_sort_realtime
+
